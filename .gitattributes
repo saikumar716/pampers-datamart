@@ -1,2 +1,2 @@
-*.csv linguist-language=Java
+*.csv linguist-language=scala
 *.scala linguist-detectable=true
