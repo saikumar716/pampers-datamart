@@ -1,3 +1,2 @@
-*.XSLT linguist-detectable=false
-*.csv linguist-detectable=false
+*.csv linguist-language=Java
 *.scala linguist-detectable=true
